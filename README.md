@@ -1,6 +1,6 @@
 # swingmokey
 <pre>
-to solve the swinging mokey problem using stack in Java language
+to solve the swinging mokey problem using stack with Java
 -TEAM- 
 1.Natthawee   Koengfak            
   -Problem solving
